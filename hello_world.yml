@@ -1,0 +1,9 @@
+---
+- hosts: localhost
+
+  tasks:
+  - import_role:
+      name: saberkan.hello_world.hello_world
+    vars:
+      friend_name: "Angry Potato"
+
