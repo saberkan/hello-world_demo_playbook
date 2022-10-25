@@ -1,0 +1,6 @@
+[galaxy]
+server_list = published_repo
+
+[galaxy_server.published_repo]
+url=<automationhub>/api/galaxy/content/published/
+token=<token>

@@ -1,2 +1,2 @@
-ansible-navigator.log
-ansible.cfg
+*.log
+**/ansible.cfg
