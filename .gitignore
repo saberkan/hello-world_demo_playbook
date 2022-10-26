@@ -1,2 +1,5 @@
 *.log
 **/ansible.cfg
+collections
+hello_world-artifact-*.json
+hello_world_ee/context/
